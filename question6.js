@@ -1,4 +1,4 @@
-var first
-var second
-var third
-var fourth
+var first;
+var second;
+var third;
+var fourth;
